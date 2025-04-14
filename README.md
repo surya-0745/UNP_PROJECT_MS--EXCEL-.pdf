@@ -3,6 +3,5 @@
 
 
 
-Excel : https://docs.google.com/spreadsheets/d/1j1aAiUt0Xsd11WGFzRQJmmEBkC9-1Okz/edit?usp=sharing&ouid=116926931877230294063&rtpof=true&sd=true
+Excel : https://1drv.ms/x/c/656b5ef73a3f3b63/EYs1fRhhvyVKjQ1XN9R2-UIBOsiUCi3J68jvUk2CMPNJ5w
 
-Pdf   : https://drive.google.com/file/d/1CtsHIxcBAOXSx7RzW-zq-EksNM9JuGzp/view?usp=sharing
