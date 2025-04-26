@@ -1,4 +1,5 @@
-# UNP_PROJECT_MS--EXCEL-.pdf
+# UNP_PROJECT_BI_WITH_MS_EXCEL_CUSTOMER_CREDIT_CARD_DATA
+
 Key insights:
 
 "Customer Credit Card Data Analysis" is an integral component of the UNP academic curriculum designed to equip students with hands-on experience in data analysis and business intelligence using Microsoft Excel. The primary goal of this project is to develop practical analytical skills by working with real-world data and transforming it into actionable business insights. The dataset used in this project encompasses comprehensive information about customer demographics—including age, gender, and geographical location—along with detailed data on credit card usage, transaction patterns, payment behavior, and spending habits across various product categories.
